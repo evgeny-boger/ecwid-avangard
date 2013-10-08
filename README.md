@@ -1,0 +1,2 @@
+ecwid-avangard
+==============
